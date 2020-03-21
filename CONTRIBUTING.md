@@ -54,9 +54,9 @@ in the agreement, unfortunately, we cannot accept your contribution.
 - Please read and follow the [code conventions](https://desktop.jitsi.org/Documentation/CodeConvention),
   especially the limit on 80 characters per line.
 - Do not reformat existing code.
-- Command-Line [build instructions](https://desktop.jitsi.org/Documentation/RetrievingAndBuildingTheSources)
-- How to set up [Eclipse](https://desktop.jitsi.org/Documentation/ConfigureEclipseNew)
-- Read the [tutorials](https://desktop.jitsi.org/Documentation/DeveloperDocumentation) (some of this information might be a bit dated, but it is still a very useful resource)
+- Command-Line [build instructions](https://desktop.jitsi.org/Documentation/RetrievingAndBuildingTheSources).
+- How to set up [Eclipse](https://desktop.jitsi.org/Documentation/ConfigureEclipseNew).
+- Read the [tutorials](https://desktop.jitsi.org/Documentation/DeveloperDocumentation) (some of this information might be a bit dated, but it is still a very useful resource).
 
 ## Creating Pull Requests
 - Perform **one** logical change per pull request.
